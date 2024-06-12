@@ -1,2 +1,2 @@
-# NSP
+# NSC
 Improving the transferability of adversarial examples through neighborhood sampling correction. The code is about to be released ... 
